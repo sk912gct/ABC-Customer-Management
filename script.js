@@ -7,4 +7,5 @@ function welcomeCustomer() {
     }
 
     alert("Welcome " + name);
+    
 }
